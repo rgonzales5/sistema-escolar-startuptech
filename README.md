@@ -6,3 +6,5 @@ Sistema de gestion escolar desarrollado por StartupTech.
 - Estudiantes
 - Profesores
 - Calificaciones
+
+<h1> integrantes </h1>
