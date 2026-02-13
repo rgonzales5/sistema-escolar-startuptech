@@ -11,5 +11,6 @@ app.js
 !importante.pdf
 #ignore todos los txt en la carpeta docs
 docs/*.txt
+notas_privadas.txt
 
 
